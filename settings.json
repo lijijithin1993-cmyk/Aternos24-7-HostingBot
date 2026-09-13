@@ -6,9 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip":vediketteboy-hWXR.aternos.me
-  
-    ,
+    "ip":vediketteboy-hWXR.aternos.me,
     "port": 56097,
     "version": "",
     "try-creative": false
